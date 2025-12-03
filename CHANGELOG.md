@@ -11,3 +11,7 @@
 ##[03] - 2025-12-03
 1. Добавление папок detector и config, файла SystemInfoApp.java в ветку detector.
 2. Слияние ветки detector с веткой main.
+
+##[04] - 2025-12-03
+1. Добавление папок collector, detector и config, файла SystemInfoAppTest.java в ветку test.
+2. Слияние ветки test с веткой main.
