@@ -7,3 +7,7 @@
 ##[02] - 2025-12-03
 1. Добавление папок linux и windows, файлов CollectorFactory.java, CommandExecutor.java, InfoCollector.java в ветку collector.
 2. Слияние ветки collector с веткой main.
+
+##[03] - 2025-12-03
+1. Добавление папок detector и config, файла SystemInfoApp.java в ветку detector.
+2. Слияние ветки detector с веткой main.
